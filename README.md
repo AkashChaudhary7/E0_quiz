@@ -6,6 +6,6 @@ A Telegram quiz bot that sends daily quiz questions with inline buttons.
 
 ```bash
 pip install -r requirements.txt
-export BOT_TOKEN="12345:ABC..."
-export CHAT_ID="987654321"
+export BOT_TOKEN="8284876153:AAFMlqxBWhF2rhAgWjpqnz09B3jHe3_qZTo"
+export CHAT_ID="6585524199"
 python bot.py
