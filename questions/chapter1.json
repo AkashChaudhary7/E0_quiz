@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "Rajasthan Municipality Act was passed in which year?",
+    "options": [
+      { "text": "2007", "correct": false, "explanation": "Not 2007." },
+      { "text": "2009", "correct": true, "explanation": "Correct: passed in 2009." },
+      { "text": "2010", "correct": false, "explanation": "Not 2010." },
+      { "text": "2011", "correct": false, "explanation": "Not 2011." }
+    ]
+  }
+]
